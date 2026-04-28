@@ -1,4 +1,4 @@
-# Hi, I'm Brian
+# Hello, I'm Brian
 
 I'm a full‑stack developer focused on building reliable, user‑centered websites and applications.  
 My work spans JavaScript, PHP, Java, and SQL.
