@@ -16,6 +16,11 @@ Most of my projects live in my GitHub organization: **[bdtripp-dev](https://gith
 ---
 
 ### What I’m Working On
-* Contributing to open‑source projects
-* Redesigning the website for St. Joseph Catholic Church
+* Designing a new website for St. Joseph Catholic Church
 * Refining my backend architecture skills
+
+---
+
+### Open Source
+* Contributed [fixes and curriculum improvements](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Abdtripp) to freeCodeCamp, including participating in an open-source community sprint
+* Created a bug fix and regression test for the Flysystem library ([PR #1901](https://github.com/thephpleague/flysystem/pull/1901))
